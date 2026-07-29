@@ -45,7 +45,7 @@ This consulting-style report includes:
 
 ➡️ **Click below to open the complete portfolio**
 
-**[📄 View the Portfolio](./Global-Functional-Beverage-Market-Portfolio.pdf.pdf)**
+**[📄 View the Portfolio](./Global-Functional-Beverage-Market-Portfolio.pdf)**
 
 ---
 
