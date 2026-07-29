@@ -1,122 +1,77 @@
 # 👋 Hi, I'm Yamini Sonawane
 
-### Market Research | Competitive Intelligence | Strategic Consulting
+### Market Research | Competitive Intelligence | Strategy Consulting
 
 Welcome to my professional market research portfolio.
 
-This repository showcases my consulting-style research approach through a comprehensive market intelligence report on the **Global Functional Beverage Market (2025–2036)**. The report demonstrates my ability to transform complex market data into strategic business insights using structured research methodologies, competitive analysis, forecasting, and executive-level reporting.
+This repository showcases my consulting-style approach to market intelligence through a comprehensive study of the **Global Functional Beverage Market (2025–2036)**. It reflects my ability to transform complex market data into actionable business insights using structured research methodologies, strategic frameworks, and executive-ready reporting.
 
 ---
 
-## 📖 About This Portfolio
+# 📖 About This Portfolio
 
-This portfolio demonstrates my capabilities in:
+Rather than simply listing my experience, this portfolio demonstrates how I approach research, structure analysis, validate data, and transform complex market information into business decisions.
 
-- Market Research
-- Competitive Intelligence
-- Industry Analysis
-- Market Sizing & Forecasting
-- Strategic Consulting
-- Data Storytelling
-- Executive Presentation Development
-- Business Strategy
+The report reflects the same analytical rigor, storytelling, and client-ready reporting standards used in professional market research and consulting engagements.
 
 ---
 
-## 📊 Featured Report
+# 📊 Featured Report
 
-### Global Functional Beverage Market (2025–2036)
+## Global Functional Beverage Market (2025–2036)
 
-This report includes:
+This consulting-style report includes:
 
-✔ Executive Summary
-
-✔ Research Methodology
-
-✔ Market Dynamics
-
-✔ PESTEL Analysis
-
-✔ Porter's Five Forces
-
-✔ SWOT Analysis
-
-✔ Competitive Landscape
-
-✔ Industry Value Chain
-
-✔ Consumer Behaviour Analysis
-
-✔ Regional Analysis
-
-✔ Market Segmentation
-
-✔ Market Size & Forecast
-
-✔ Strategic Recommendations
-
-✔ Future Outlook
+- Executive Summary
+- Research Methodology
+- Market Dynamics
+- PESTEL Analysis
+- Porter's Five Forces Analysis
+- Industry Value Chain Analysis
+- SWOT Analysis
+- Competitive Landscape
+- Consumer & Industry Analysis
+- Regional & Country Analysis
+- Market Segmentation
+- Market Size & Forecast
+- Strategic Recommendations
+- Future Outlook
 
 ---
 
-## 📄 View Portfolio
+# 📄 View Portfolio
 
-👉 **Open the complete report here**
+### 📘 Global Functional Beverage Market Report
 
-**[📘 Global Functional Beverage Market Portfolio](./Yamini_Global%20Functional%20Beverage%20Market.pdf)**
+➡️ **Click below to open the complete portfolio**
 
----
-
-## 🛠 Skills Demonstrated
-
-- Secondary Research
-- Competitive Benchmarking
-- Company Profiling
-- Strategic Analysis
-- Market Forecasting
-- Market Estimation
-- Opportunity Assessment
-- Data Visualization
-- Business Intelligence
-- Consulting Frameworks
+**[View the Portfolio](./Yamini_Global%20Functional%20Beverage%20Market.pdf)**
 
 ---
 
-## 🧰 Tools Used
+# 👩 About Me
 
-- Microsoft Excel
-- Power BI
-- Statista
-- Factiva
-- GlobalData
-- MarketLine
-- IBISWorld
-- ChatGPT
-- Google Gemini
+I am a Market Research professional with 3 years of experience delivering market intelligence, competitive benchmarking, and strategic insights across multiple industries.
+
+My expertise includes market research, competitive intelligence, company profiling, industry analysis, forecasting, market sizing, and developing consulting-style reports that support strategic business decision-making.
+
+I am passionate about transforming data into meaningful insights that help organizations identify opportunities, understand competitive landscapes, and make informed business decisions.
 
 ---
 
-## 👩 About Me
+# 🌐 Let's Connect
 
-I am a Market Research professional with 3 years of experience delivering market intelligence, competitive benchmarking, and strategic insights across ICT, Chemicals, Industrial Automation, Consumer Goods, and Food & Beverage industries.
+📧 **Email**  
+yamini6sonawane@gmail.com
 
-I enjoy transforming data into business decisions through structured analysis, strategic thinking, and evidence-based research.
-
----
-
-## 🌐 Connect With Me
-
-📧 Email:
-**yamini6sonawane@gmail.com**
-
-💼 LinkedIn
-
+💼 **LinkedIn**  
 https://linkedin.com/in/yaminisonawane
 
-✍️ Substack
-
+✍️ **Substack**  
 https://substack.com/@yaminiwins
 
 ---
 
-⭐ Thank you for visiting my portfolio!
+⭐ Thank you for visiting my portfolio.
+
+If you have any feedback, opportunities, or would like to discuss market research, competitive intelligence, or strategy consulting, feel free to connect with me.
