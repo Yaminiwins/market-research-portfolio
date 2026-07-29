@@ -45,7 +45,7 @@ This consulting-style report includes:
 
 ➡️ **Click below to open the complete portfolio**
 
-**[View the Portfolio](./Yamini_Global%20Functional%20Beverage%20Market.pdf)**
+**[📄 View the Portfolio](./Global-Functional-Beverage-Market-Portfolio.pdf.pdf)**
 
 ---
 
