@@ -71,9 +71,7 @@ An interactive Power BI dashboard designed to analyze M&A deal activity and prov
 
 **Power BI | Power Query | DAX | Data Visualization | M&A Research**
 
-### 📥 Download the Power BI Dashboard
-
-➡️ [Download EY M&A Deal Dashboard (.pbix)](EY_MA_Deal_Dashboard.pbix)
+➡️ [Download EY M&A Deal Dashboard (.pbix)](https://github.com/Yaminiwins/market-research-portfolio/raw/refs/heads/main/EY_MA_Deal_Dashboard.pbix)
 
 ---
 
