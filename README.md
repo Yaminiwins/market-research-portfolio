@@ -49,6 +49,34 @@ This consulting-style report includes:
 
 ---
 
+---
+
+# 📊 Power BI Dashboard
+
+## EY M&A Deal Dashboard
+
+An interactive Power BI dashboard designed to analyze M&A deal activity and provide a clear view of transaction trends, deal values, sectors, and other key deal-level insights.
+
+### Dashboard Highlights
+
+- M&A deal activity and transaction trends
+- Deal value analysis
+- Sector and industry insights
+- Geographic analysis
+- Key performance indicators (KPIs)
+- Interactive filtering and data exploration
+- Executive-style dashboard visualization
+
+### Tools Used
+
+**Power BI | Power Query | DAX | Data Visualization | M&A Research**
+
+### 📥 Download the Power BI Dashboard
+
+➡️ [Download EY M&A Deal Dashboard (.pbix)](EY_MA_Deal_Dashboard.pbix)
+
+---
+
 # 👩 About Me
 
 I am a Market Research professional with 3 years of experience delivering market intelligence, competitive benchmarking, and strategic insights across multiple industries.
