@@ -74,7 +74,12 @@ An interactive Power BI dashboard designed to analyze M&A deal activity and prov
 ➡️ [Download EY M&A Deal Dashboard (.pbix)](https://github.com/Yaminiwins/market-research-portfolio/raw/refs/heads/main/EY_MA_Deal_Dashboard.pbix)
 
 ---
+## Additional Dashboards
 
+- [HR Analytics Dashboard](HR%20Analytics%20Dashboard.xlsx)
+- [Call Centre Dashboard – 2023](Call%20Centre%20Dashboard%20-%202023.xlsx)
+
+---
 # 👩 About Me
 
 I am a Market Research professional with 3 years of experience delivering market intelligence, competitive benchmarking, and strategic insights across multiple industries.
