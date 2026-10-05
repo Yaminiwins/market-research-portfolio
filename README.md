@@ -1,108 +1,182 @@
 # 👋 Hi, I'm Yamini Sonawane
 
-### Market Research | Competitive Intelligence | Strategy Consulting
+### Market Research • Competitive Intelligence • Strategic Insights
 
-Welcome to my professional market research portfolio.
+**I turn market data into structured business insights, competitive intelligence, and decision-ready narratives.**
 
-This repository showcases my consulting-style approach to market intelligence through a comprehensive study of the **Global Functional Beverage Market (2025–2036)**. It reflects my ability to transform complex market data into actionable business insights using structured research methodologies, strategic frameworks, and executive-ready reporting.
-
----
-
-# 📖 About This Portfolio
-
-Rather than simply listing my experience, this portfolio demonstrates how I approach research, structure analysis, validate data, and transform complex market information into business decisions.
-
-The report reflects the same analytical rigor, storytelling, and client-ready reporting standards used in professional market research and consulting engagements.
+[📂 Selected Work](#-selected-work) · [🧠 My Approach](#-how-i-approach-a-research-problem) · [💼 LinkedIn](https://linkedin.com/in/yaminisonawane) · [✉️ Contact](mailto:yamini6sonawane@gmail.com)
 
 ---
 
-# 📊 Featured Report
+## 👩‍💼 About Me
 
-## Global Functional Beverage Market (2025–2036)
+I'm a **Market Research professional with 3 years of experience** across market intelligence, competitive intelligence, company profiling, strategic research, and consulting-style analysis.
 
-This consulting-style report includes:
+My work sits at the intersection of **research + strategy + analytics** — starting with a business question, structuring the research, validating evidence, analysing the market, and translating findings into an executive-ready story.
 
-- Executive Summary
-- Research Methodology
-- Market Dynamics
-- PESTEL Analysis
-- Porter's Five Forces Analysis
-- Industry Value Chain Analysis
-- SWOT Analysis
-- Competitive Landscape
-- Consumer & Industry Analysis
-- Regional & Country Analysis
-- Market Segmentation
-- Market Size & Forecast
-- Strategic Recommendations
-- Future Outlook
+### What I bring
+
+| Research | Strategy | Analytics |
+|---|---|---|
+| Market Research | Competitive Intelligence | Power BI |
+| Market Sizing | Company & Competitor Profiling | Advanced Excel |
+| Industry Analysis | Strategic Recommendations | Power Query |
+| Forecasting | Benchmarking & Opportunity Mapping | DAX / Data Visualization |
 
 ---
 
-# 📄 View Portfolio
+# 📌 Selected Work
 
-### 📘 Global Functional Beverage Market Report
+> **A portfolio of practical research and analytics work — built to demonstrate how I think, not just what tools I use.**
 
-➡️ **Click below to open the complete portfolio**
+## 01 · Featured Market Intelligence Case Study
 
-**[📄 View the Portfolio](./Global-Functional-Beverage-Market-Portfolio.pdf)**
+### 🥤 Global Functional Beverage Market | 2025–2036
+
+**Business question:**  
+How can a company evaluate the opportunity, competitive intensity, growth drivers, and strategic whitespace within the global functional beverage market?
+
+**My approach:**  
+**Market sizing & forecasting → segmentation → market dynamics → PESTEL → Porter's Five Forces → value chain → competitive landscape → consumer analysis → regional analysis → SWOT → strategic recommendations**
+
+**What this demonstrates**
+- Structured market research methodology
+- Market sizing and forecasting
+- Industry and competitor analysis
+- Strategic framework application
+- Executive-style storytelling
+- Opportunity identification
+
+**[📄 Read the Full Global Functional Beverage Market Report](./Global-Functional-Beverage-Market-Portfolio.pdf)**
+
+*Independent portfolio case study; no client-confidential information.*
+
+---
+
+## 02 · Data & Deal Intelligence
+
+### 💼 EY M&A Deal Dashboard | Power BI
+
+**Business question:**  
+How can transaction-level data be transformed into an executive view of M&A activity, deal value, sectors, geography, and transaction trends?
+
+**Built with:**  
+**Power BI · Power Query · DAX · Data Visualization · M&A Research**
+
+**What this demonstrates**
+- KPI design
+- Transaction trend analysis
+- Sector and geographic analysis
+- Interactive filtering
+- Executive dashboard storytelling
+- Research + analytics integration
+
+**[⬇️ Download the Power BI Dashboard](./EY_MA_Deal_Dashboard.pbix)**
 
 ---
 
----
+## 03 · Operational Analytics
 
-# 📊 Power BI Dashboard
+### 📞 Call Centre Dashboard | Excel
 
-## EY M&A Deal Dashboard
+A management-oriented Excel dashboard designed to turn call-centre activity into structured KPI views and operational insights.
 
-An interactive Power BI dashboard designed to analyze M&A deal activity and provide a clear view of transaction trends, deal values, sectors, and other key deal-level insights.
+**Focus:** volume analysis · performance tracking · agent-level metrics · KPI reporting
 
-### Dashboard Highlights
-
-- M&A deal activity and transaction trends
-- Deal value analysis
-- Sector and industry insights
-- Geographic analysis
-- Key performance indicators (KPIs)
-- Interactive filtering and data exploration
-- Executive-style dashboard visualization
-
-### Tools Used
-
-**Power BI | Power Query | DAX | Data Visualization | M&A Research**
-
-➡️ [Download EY M&A Deal Dashboard (.pbix)](https://github.com/Yaminiwins/market-research-portfolio/raw/refs/heads/main/EY_MA_Deal_Dashboard.pbix)
+**[📊 Open Excel Dashboard](./Call%20Centre%20Dashboard%20-%202023.xlsx)**
 
 ---
-## Additional Dashboards
 
-- [HR Analytics Dashboard](HR%20Analytics%20Dashboard.xlsx)
-- [Call Centre Dashboard – 2023](Call%20Centre%20Dashboard%20-%202023.xlsx)
+## 04 · Workforce Analytics
+
+### 👥 HR Analytics Dashboard | Excel
+
+An Excel-based workforce analytics dashboard focused on employee composition, workforce metrics, segmentation, and trend analysis.
+
+**Focus:** workforce KPIs · employee segmentation · trend analysis · management reporting
+
+**[📊 Open HR Analytics Dashboard](./HR%20Analytics%20Dashboard.xlsx)**
 
 ---
-# 👩 About Me
 
-I am a Market Research professional with 3 years of experience delivering market intelligence, competitive benchmarking, and strategic insights across multiple industries.
+# 🧠 How I Approach a Research Problem
 
-My expertise includes market research, competitive intelligence, company profiling, industry analysis, forecasting, market sizing, and developing consulting-style reports that support strategic business decision-making.
+I use a repeatable **Research → Validate → Analyse → Interpret → Recommend** framework.
 
-I am passionate about transforming data into meaningful insights that help organizations identify opportunities, understand competitive landscapes, and make informed business decisions.
+### 01 · Define
+Clarify the business question, scope, market boundaries, segments, geography, and decision required.
+
+### 02 · Research
+Collect information from credible databases, company disclosures, government sources, industry sources, and market intelligence platforms.
+
+### 03 · Validate
+Triangulate information, challenge assumptions, compare sources, and identify data gaps.
+
+### 04 · Analyse
+Apply market sizing, forecasting, segmentation, competitive benchmarking, PESTEL, Five Forces, SWOT, and other relevant frameworks.
+
+### 05 · Interpret
+Move beyond *"what happened?"* to *"why does it matter?"*
+
+### 06 · Recommend
+Translate evidence into opportunity areas, risks, strategic implications, and decision-ready recommendations.
+
+---
+
+# 📊 Experience at a Glance
+
+| 3+ Years | 50+ | 200+ | 400+ | 20+ |
+|---|---|---|---|---|
+| Market Research | Intelligence Reports | Competitive Analyses | Company Profiles | RFP / Presales Projects |
+
+Experience across **ICT, Chemicals, Semiconductors, Electronics, Consumer Goods, Industrial Automation, Food & Beverage, Pharma and other emerging markets.**
+
+---
+
+# 🛠️ Research Toolkit
+
+**Market & Business Research**  
+Market Sizing · Forecasting · Competitive Intelligence · Company Profiling · Benchmarking · Industry Analysis · Feasibility Analysis · Strategic Research
+
+**Analytics**  
+Advanced Excel · Power BI · Power Query · DAX · SQL Basics · Data Visualization
+
+**Research Platforms**  
+Factiva · Statista · GlobalData · MarketLine · IBISWorld · Euromonitor · EMIS · ZoomInfo
+
+**Strategic Frameworks**  
+PESTEL · Porter's Five Forces · SWOT · Value Chain · TAM / SAM / SOM · Competitor Mapping
+
+---
+
+# 🎯 What You Can Expect From My Work
+
+**Evidence-led** — credible sources, structured research, and transparent assumptions.
+
+**Commercially oriented** — not just what the data says, but what it means for a business.
+
+**Consulting-style** — business question → evidence → analysis → implications → recommendation.
+
+**Detail-oriented** — traceable research and defensible analysis.
+
+**Executive-ready** — clear reports, dashboards, presentations, and decision narratives.
 
 ---
 
 # 🌐 Let's Connect
 
-📧 **Email**  
-yamini6sonawane@gmail.com
+I'm open to opportunities across:
 
-💼 **LinkedIn**  
-https://linkedin.com/in/yaminisonawane
+**Market Research · Competitive Intelligence · Strategy · Consulting · Presales Research · Business Intelligence**
 
-✍️ **Substack**  
-https://substack.com/@yaminiwins
+📧 **[yamini6sonawane@gmail.com](mailto:yamini6sonawane@gmail.com)**  
+💼 **[LinkedIn](https://linkedin.com/in/yaminisonawane)**  
+✍️ **[Substack](https://substack.com/@yaminiwins)**
 
 ---
 
-⭐ Thank you for visiting my portfolio.
+### ⭐ Explore the work
 
-If you have any feedback, opportunities, or would like to discuss market research, competitive intelligence, or strategy consulting, feel free to connect with me.
+**[View Selected Work →](#-selected-work)**
+
+*Independent projects are clearly identified and do not contain client-confidential information.*
